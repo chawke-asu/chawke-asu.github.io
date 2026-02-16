@@ -81,7 +81,7 @@ You'll see the word "repository" used a lot in GitHub - it simply means "project
 
 </div>
 
-<div class="gs-section-02" markdown="1">
+<div class="gs-section-03" markdown="1">
  
 ### 3. Customize your website settings
 
@@ -260,19 +260,19 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 # only <h3> headers between <div class=gs-section-02> tags
 
- .gs-section-01 h3 { 
+ .gs-section-02 h3 { 
      color: pink }
 
-.gs-section-01 p {
+.gs-section-02 p {
      font-size: 35px;
 }
 
  # only <h3> headers between <div class=gs-section-02> tags
 
- .gs-section-01 h3 { 
+ .gs-section-03 h3 { 
      color: green }
 
-.gs-section-01 p {
+.gs-section-03 p {
      font-size: 40px;
 }
 
